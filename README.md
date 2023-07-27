@@ -10,8 +10,3 @@ O projeto possui um job que lê um arquivo de usuários e os insere no banco de 
 - [ ] Two-Phase Commit (2PC)
 - [ ] Configurar Atomikos
 - [ ] [Configuração de múltiplos bancos de escrita com 2PC](https://github.com/giuliana-bezerra/sb-distributed-transactions/tree/v2.0)
-
-## Referências
-
-- [Vídeo do Youtube](https://youtu.be/T9Hgyxbh5V0)
-- [Curso de Spring Batch](https://www.udemy.com/course/curso-para-desenvolvimento-de-jobs-com-spring-batch/?referralCode=8743E206FA9240686B20)
